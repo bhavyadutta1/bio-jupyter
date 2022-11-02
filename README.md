@@ -1,7 +1,7 @@
 ## Get Started
 To make it easy to get started with GitHub, here's a list of recommended next steps.
 
-- Create an account on [github.com](url)
+- Create an account on [GitHub](https://github.com/)
 
 ### Clone the repository
 There are several ways to access the project files:
