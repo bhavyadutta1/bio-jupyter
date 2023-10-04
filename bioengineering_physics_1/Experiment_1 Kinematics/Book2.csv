@@ -1,0 +1,7 @@
+distances,30 cm,60 cm,90 cm,120 cm
+measurement,arrival times in s,arrival times in s,arrival times in s,arrival times in s
+1,0.178,0.671,1.152,1.634
+2,0.18,0.678,1.163,1.649
+3,0.179,0.671,1.151,1.632
+mean,0.179,0.673,1.155,1.638
+u(t),0.003,0.01,0.017,0.023

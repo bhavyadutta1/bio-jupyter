@@ -1,0 +1,9 @@
+distances,30 cm,60 cm,90 cm,120 cm
+measurement,blackout times in s,blackout times in s,blackout times in s,blackout times in s
+1,0.336,0.332,0.317,0.307
+2,0.335,0.33,0.315,0.306
+3,0.331,0.326,0.312,0.303
+mean,0.334,0.329,0.315,0.305
+u(t),0.007,0.008,0.006,0.005
+velocity v in m/s,29.94,30.395,31.746,32.787
+u(v) in m/s,0.695,0.799,0.683,0.63
